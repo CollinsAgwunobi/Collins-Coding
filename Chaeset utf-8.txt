@@ -1,0 +1,7 @@
+What is Meta Charset UTF-8
+
+META is an HTML tag that contains metadata about a webpage. They are used by search engine to determine the page content and how to treat a webpage.
+CHARSET is an attribute that tells your browser what character encoding to use for this webpage to show the content as desired.
+UTF-8 is the version of the character set.
+
+The function of UTF-8 is to ensure that text in different languages can be encoded and displayed correctly. It allows for the representation of a wide range of characters, including those from non-Latin scripts, emojis, and special symbols. This encoding scheme helps in promoting multilingual support and compatibility across different platforms and systems.
